@@ -1,14 +1,14 @@
 # QuantNetwork-test-task
 
-Реализовать галерею которая будет отображать фотографии из unsplash. Это приложение должно извлекать ресурс в формате JSON.
-Документация REST API :
+Create a gallery that will display photos from unsplash. This application must be used on a resource in JSON format.
+REST API documentation:
 [unsplash com/documentation]
  
-Токен к API моно получить или использовать следующие:  [api unsplash com/photos/?client_id=cf49c08b444ff4cb9e4d126b7e9f7513ba1ee58de7906e4360afc1a33d1bf4c0] , ab3411e4ac868c2646c0ed488dfd919ef612b04c264f3374c97fff98ed253dc9 или 896d4f52c589547b2134bd75ed48742db637fa51810b49b607e37e46ab2c0043
+You can get a token to the API or use the following:  [api unsplash com/photos/?client_id=cf49c08b444ff4cb9e4d126b7e9f7513ba1ee58de7906e4360afc1a33d1bf4c0] , ab3411e4ac868c2646c0ed488dfd919ef612b04c264f3374c97fff98ed253dc9 или 896d4f52c589547b2134bd75ed48742db637fa51810b49b607e37e46ab2c0043
  
-Приложение должно содержать два экрана:
-* Список
-- мини изображение с названием и автором
-- когда пользователь нажимает на изображение, открывается экран фотографии 
-* Фотография
-- отображает одну фотографию с максимальной площадью.
+The application must contain two screens:
+* List
+   - mini image
+   - when the user clicks on the image, the photo screen opens
+* Photo
+   - displays one photo with the maximum area.
