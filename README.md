@@ -1,4 +1,4 @@
-# QuantNetwork-test-task
+# Android-RESTful-gallery
 
 Create a gallery that will display photos from unsplash. This application must be used on a resource in JSON format.
 REST API documentation:
